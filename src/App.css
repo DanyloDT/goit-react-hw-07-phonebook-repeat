@@ -1,0 +1,9 @@
+.container {
+  padding: 15px;
+  margin: 0 auto;
+  max-width: 450px;
+}
+
+.title {
+  margin-bottom: 15px;
+}
